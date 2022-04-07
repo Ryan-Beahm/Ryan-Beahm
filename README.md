@@ -1,2 +1,2 @@
 -I’m @Ryan-Beahm
--I’m interested in Cybersecurity and networking.
+-I’m interested in Cybersecurity and networking, always looking to learn more cool stuff towards that end.
